@@ -14,15 +14,6 @@ src="https://img.shields.io/github/followers/SobirjonovAzizbek-2012?logo=github&
 src="https://img.shields.io/twitter/follow/azizbeksbv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 </ul>
-### About me
+<img align="left" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Coding"/>
 
-<img align="left" alt="Coding" width="340" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
-
-Hi, I'm **Azizbek Sobirjonov**.
-
-- Python developer
-- Backend learner
-- PostgreSQL
-- Git & GitHub
-- Building practical projects
 
