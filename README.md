@@ -14,18 +14,4 @@
 src="https://img.shields.io/github/followers/SobirjonovAzizbek-2012?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/azizbeksbv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/azizbeksbv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/SobirjonovAzizbek-2012/blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SobirjonovAzizbek-2012&repo=blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ | 9860 0609 2579 5969 | HUMO card"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/ | 9987 1004 0349 9664 | ATTO card"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
 </ul>
