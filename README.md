@@ -1,9 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Azizbek Sobirjonov
-===========================================================================================================================================
-
-I am a frontend and backend developer.
---------------------------------------
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+Azizbek+Sobirjonov+I+am+a+frontend+and+backend+developer.)](https://git.io/typing-svg)
 * 🌍  I'm based in Uzbekistan
 * 🖥️  See my portfolio at [VeloniX porfolio](http://https://porfolio-main.netlify.app/)
 * ✉️  You can contact me at [azizbeksobirjonov93796@gmail.com](mailto:azizbeksobirjonov93796@gmail.com)
