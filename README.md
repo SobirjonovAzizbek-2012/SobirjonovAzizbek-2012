@@ -14,6 +14,6 @@ src="https://img.shields.io/github/followers/SobirjonovAzizbek-2012?logo=github&
 src="https://img.shields.io/twitter/follow/azizbeksbv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 </ul>
-<img align="left" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Coding"/>
+<img align="left" width="360" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Rainy coding"/>
 
 
