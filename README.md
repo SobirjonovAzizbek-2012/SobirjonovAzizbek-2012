@@ -24,3 +24,5 @@ src="https://img.shields.io/twitter/follow/azizbeksbv?logo=twitter&style=for-the
   <img alt="GitHub Contribution Snake"
        src="https://raw.githubusercontent.com/firdavsDev/firdavsDev/output/github-snake.svg">
 </picture>
+
+![GitHub Snake](https://raw.githubusercontent.com/SobirjonovAzizbek-2012/SobirjonovAzizbek-2012/output/github-snake.svg)
