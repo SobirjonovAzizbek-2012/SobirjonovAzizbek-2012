@@ -14,28 +14,13 @@ src="https://img.shields.io/github/followers/SobirjonovAzizbek-2012?logo=github&
 src="https://img.shields.io/twitter/follow/azizbeksbv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 </ul>
-name: Generate Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/firdavsDev/firdavsDev/output/github-snake-dark.svg">
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/firdavsDev/firdavsDev/output/github-snake.svg">
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: firdavsDev
-          outputs: |
-            dist/github-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/firdavsDev/firdavsDev/output/github-snake.svg">
+</picture>
