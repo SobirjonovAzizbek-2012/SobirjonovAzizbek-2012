@@ -14,7 +14,8 @@ src="https://img.shields.io/github/followers/SobirjonovAzizbek-2012?logo=github&
 src="https://img.shields.io/twitter/follow/azizbeksbv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 </ul>
-<img align="left" width="320" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding cat"/>
+![GitHub Snake](https://raw.githubusercontent.com/firdavsDev/firdavsDev/output/github-snake.svg)
+
 
 
 
